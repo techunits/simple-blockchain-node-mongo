@@ -1,0 +1,25 @@
+{
+  "name": "simple-blockchain-node-mongo",
+  "version": "1.0.0",
+  "description": "Implementation of Simple Blockchain using NodeJS &amp; MongoDB",
+  "main": "chain.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://techunits@github.com/techunits/simple-blockchain-node-mongo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/techunits/simple-blockchain-node-mongo/issues"
+  },
+  "homepage": "https://github.com/techunits/simple-blockchain-node-mongo#readme",
+  "dependencies": {
+    "crypto-js": "^4.0.0",
+    "elogger": "^1.0.8",
+    "mongoose": "^5.9.18"
+  }
+}
